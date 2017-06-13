@@ -5,7 +5,6 @@ from optparse import OptionParser
 
 
 # Created by Murphy on 11/06/17.
-# Copyright © 2017 Murphy. All rights reserved.
 # This is an exercise to Bypass a Jailbreak method detection. 
 # First, Find the method to hook using class-dump or Radare2.
 #  class-dump <bin>
